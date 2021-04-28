@@ -1,5 +1,6 @@
-### Hi there 👋, meu nome é Eduardo
+### Olá 👋, meu nome é Eduardo
 #### Sou programador mobile JR em busca de aprimorar meus conhecimentos!
+
 Gosto de praticar participando de eventos e cursos onde posso aprender coisas novas e que eu possa utilizar para melhorar outros projetos.
 
 Skills: REACT NATIVE / REACT / JS / TS / HTML / CSS 
