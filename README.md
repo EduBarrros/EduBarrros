@@ -5,7 +5,7 @@ Gosto de praticar participando de eventos e cursos onde posso aprender coisas no
 
 Skills: REACT NATIVE / REACT / JS / TS / HTML / CSS 
 
-- 🔭 I’m currently working on SeuVAle 
+- 🔭 I’m currently working on SeuVale 
 - 🌱 I’m currently learning React Native 
 
 
