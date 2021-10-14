@@ -13,5 +13,5 @@ Skills: REACT NATIVE / REACT / JS / TS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eduardo-de-oliveira-barros-b5a2491b5/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduBarrros&layout=compact&theme=tokyonight](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduBarrros&layout=compact](https://github.com/anuraghazra/github-readme-stats)
 
