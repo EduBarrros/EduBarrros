@@ -10,8 +10,8 @@ Skills: REACT NATIVE / REACT / JS / TS / HTML / CSS
 
 <div align="center">
   <a href="https://github.com/EduBarrros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduBarrros&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBarros&layout=compact&langs_count=7&theme=synthwave"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduBarrros&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduBarros&show_icons=true&theme=tokyonight)
 </div>
 
 
