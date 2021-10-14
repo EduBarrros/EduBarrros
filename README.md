@@ -3,8 +3,6 @@
 
 Gosto de praticar participando de eventos e cursos onde posso aprender coisas novas e que eu possa utilizar para melhorar outros projetos.
 
-Skills: REACT NATIVE / REACT / JS / TS / HTML / CSS 
-
 - 🔭 I’m currently working on SeuVale 
 - 🌱 I’m currently learning React Native 
 
