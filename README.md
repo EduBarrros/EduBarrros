@@ -9,10 +9,10 @@ Skills: REACT NATIVE / REACT / JS / TS / HTML / CSS
 - 🌱 I’m currently learning React Native 
 
 <a href="https://github.com/EduBarrros/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBarrros&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBarrros" />
 </a>
 <a href="https://github.com/EduBarrros/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBarrros&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBarrros" />
 </a>
 
 
