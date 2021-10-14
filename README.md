@@ -8,11 +8,11 @@ Skills: REACT NATIVE / REACT / JS / TS / HTML / CSS
 - 🔭 I’m currently working on SeuVale 
 - 🌱 I’m currently learning React Native 
 
-<a href="https://github.com/EduBarrros/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBarrros" />
+<a href="https://github.com/EduBarrros">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduBarrros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/EduBarrros/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduBarrros" />
+<a href="https://github.com/EduBarrros">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBarrros&layout=compact&langs_count=7&theme=dracula" />
 </a>
 
 
