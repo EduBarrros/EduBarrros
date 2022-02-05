@@ -7,9 +7,6 @@ Gosto de praticar participando de eventos e cursos onde posso aprender coisas no
 - 🌱 I’m currently learning React Native 
 
 <a href="https://github.com/EduBarrros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduBarrros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/EduBarrros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBarrros&layout=compact&langs_count=7&theme=dracula" />
 </a>
 
