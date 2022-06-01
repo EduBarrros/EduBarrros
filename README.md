@@ -1,7 +1,7 @@
-### Olá 👋, meu nome é Eduardo
-#### Sou analista desenvolvedor JR em busca de aprimorar meus conhecimentos!
+### Hi 👋, my name is Eduardo
+#### I'm a analyst developer looking to improve my knowledge!
 
-Gosto de praticar participando de eventos e cursos onde posso aprender coisas novas e que eu possa utilizar para melhorar outros projetos.
+I like to practice by participating in events and courses where I can learn new things that I can use to improve other projects.
 
 - 🔭 I’m currently working on SeuVale 
 - 🌱 I’m currently learning React Native 
