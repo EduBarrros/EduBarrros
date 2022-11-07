@@ -3,7 +3,7 @@
 
 I like to practice by participating in events and courses where I can learn new things that I can use to improve other projects.
 
-- 🔭 I’m currently working on SeuVale 
+- 🔭 I’m currently working on EShows
 - 🌱 I’m currently learning React Native 
 
 <a href="https://github.com/EduBarrros">
