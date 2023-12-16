@@ -3,8 +3,8 @@
 
 I like to practice by participating in events and courses where I can learn new things that I can use to improve other projects.
 
-- 🔭 I’m currently working on EShows
-- 🌱 I’m currently learning React Native 
+- 🔭 I’m currently working on Velotax
+- 🌱 I’m currently learning Java and NodeJs
 
 <a href="https://github.com/EduBarrros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBarrros&layout=compact&langs_count=7&theme=dracula" />
